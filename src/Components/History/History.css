@@ -1,0 +1,17 @@
+.historyImg {
+  width: 100px;
+  height: 100px;
+}
+.historyList {
+  display: flex;
+  justify-content: center;
+}
+.historyList ul {
+  text-align: start;
+  padding: 0;
+  
+}
+.historyList ul li {
+  padding: 0 20px;
+  
+}
